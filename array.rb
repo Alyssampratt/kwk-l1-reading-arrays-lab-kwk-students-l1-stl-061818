@@ -10,3 +10,12 @@
 
 # friends = ["ross", "rachel","chandler", "monica","phoebe"]
 # puts friends
+
+disney = ["anna","belle","simba","olaf","ariel"]
+puts disney
+
+age = [13,16,14]
+puts age
+
+books["fish out of water","to kill a mockingbird","purple hibiscus"]
+puts books
