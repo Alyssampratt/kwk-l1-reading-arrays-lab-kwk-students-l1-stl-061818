@@ -23,4 +23,4 @@ books = ["fish out of water","Princess X","purple hibiscus"]
 # puts books[0]
 
 books.push("geometry textbook")
-puts books
+# puts books
