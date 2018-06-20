@@ -22,8 +22,6 @@ end
 fourth_student_by_index
 
 def first_second_and_third_students
-  puts student_names.first
-  puts student_names[1]
-  puts student_names[2]
+  puts student_names[0..2]
 end 
 first_second_and_third_students
