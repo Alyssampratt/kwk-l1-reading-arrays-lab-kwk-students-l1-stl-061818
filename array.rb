@@ -8,3 +8,5 @@
 # student_list = ["caroline", "millie", "sonali", "sam"]
 # puts student_list
 
+friends = ["ross", "rachel","chandler", "monica","phoebe"]
+puts friends
