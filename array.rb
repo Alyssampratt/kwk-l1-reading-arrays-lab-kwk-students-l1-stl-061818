@@ -12,10 +12,13 @@
 # puts friends
 
 disney = ["anna","belle","simba","olaf","ariel"]
-puts disney
+# puts disney
 
 age = [13,16,14]
-puts age
+# puts age
 
 books = ["fish out of water","Princess X","purple hibiscus"]
-puts books[0]
+# puts books[0]
+
+books.push("geometry textbook")
+puts books
