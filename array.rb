@@ -14,7 +14,7 @@
 disney = ["anna","belle","simba","olaf","ariel"]
 disney.push("pooh bear")
 disney.push("tigger")
-disney.length
+disney.slice(range)
 puts disney
 
 age = [13,16,14]
