@@ -6,7 +6,7 @@
 # puts "in this class, we have a student name #{student_four}"
 
 # student_list = ["caroline", "millie", "sonali", "sam"]
-# puts student_list
+# # puts student_list
 
-friends = ["ross", "rachel","chandler", "monica","phoebe"]
-puts friends
+# friends = ["ross", "rachel","chandler", "monica","phoebe"]
+# puts friends
