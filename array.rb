@@ -14,8 +14,7 @@
 disney = ["anna","belle","simba","olaf","ariel"]
 disney.push("pooh bear")
 disney.push("tigger")
-disney.size
-puts disney
+puts disney.size
 
 age = [13,16,14]
 # puts age
