@@ -19,9 +19,9 @@ def last_student_by_index
   puts STUDENT_NAMES[6]
 end
 
-first_student_by_index
+puts first_student_by_index
 
-last_student_by_index
+puts last_student_by_index
 
 def first_second_and_third_students
  puts STUDENT_NAMES[0,1,2]
