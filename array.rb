@@ -18,4 +18,4 @@ age = [13,16,14]
 puts age
 
 books = ["fish out of water","Princess X","purple hibiscus"]
-puts books
+puts books[0]
