@@ -12,7 +12,9 @@
 # puts friends
 
 disney = ["anna","belle","simba","olaf","ariel"]
-# puts disney
+disney.push("pooh")
+disney.push("tiger")
+puts disney
 
 age = [13,16,14]
 # puts age
