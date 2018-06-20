@@ -8,3 +8,4 @@ student_names = [
 
 def first_student_by_index
   puts student_names[0]
+end
