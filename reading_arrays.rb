@@ -9,19 +9,10 @@ STUDENT_NAMES = [
 
 def first_student_by_index
   puts STUDENT_NAMES[0]
-end
-
-def fourth_student_by_index
  puts STUDENT_NAMES[3]
-end
-
-def last_student_by_index
   puts STUDENT_NAMES[6]
 end
 
-puts first_student_by_index
-
-puts last_student_by_index
 
 def first_second_and_third_students
  puts STUDENT_NAMES[0,1,2]
